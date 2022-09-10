@@ -14,17 +14,17 @@ The dataset for the analysis was gathered during August 2019. It is likely the m
 ### Where CitiBike is used
 The location map shows only stations that respectively counted 10,000 rides or more during the period by default. The popular starting stations are located in the same area as the popular ending stations, including Pershing Square North, E17 St & Broadway, Broadway & E22 ST, E24 St & Park Ave S, W21 St & 6 Ave, and Broadway & E14 St, to name a few. They are in the southern part of Manhattan.
 
-
+![](https://github.com/Ryoichi2022/bikesharing/blob/main/Where_used.png)
 
 ### How long CitiBike is used
 As popular stations are concentrated in a certain area, ride duration would not be expected to be very long, which is supported by the data. The mode of the duration was 5, which means five minutes and more but less than six minutes. Also, 99% of the rides were less than one hour. Although far more number of males use CitiBike than females, the shape of the line charts resembles each other between male and female with frequent duration being 4, 5, 6, and 7.
 
-
+![](https://github.com/Ryoichi2022/bikesharing/blob/main/How_long_used.png)
 
 ### When CitiBike is used
 The chart indicates that the darker the color, the more frequently CitiBike is used. The research reveals that more people in the NYC take CitiBike during weekdays between 7 and 10 in the morning as well as 5 and 8 in the evening than any other part of the day. On Saturdays and Sundays, on the other hand, utilization appears high during daytime, or between 10 AM and 8 PM. Additionally, subscribers tend to use CitiBike more during weekdays, while customers use it more on Saturdays and Sundays.
 
-
+![](https://github.com/Ryoichi2022/bikesharing/blob/main/When_used.png)
 
 ## 3. Summary
 ### Common use of CitiBike
