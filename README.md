@@ -10,6 +10,7 @@ The research is going to be conducted to figure out how the bike-share business 
 ### [Link to NYC CitiBike Analysis Report](https://public.tableau.com/app/profile/ryoichi.nakayama/viz/NYC_Citibike_Challenge_16626042461980/Analysis_Report)
 
 
+
 ### Data summary
 The dataset for the analysis was gathered during August 2019. It is likely the month when more people go outside and ride a bike than in any other months of the year. The total number of rides throughout the period was 2,344,224, and every ride data contains information such as duration, start and end time with location (station name and coordinates), bike ID, and bike year. 65% of the rides were by male, and 25% were by female. In addition, bike-share subscribers accounted for 81% of the total rides.
  
