@@ -12,8 +12,8 @@ The research is going to be conducted to figure out how the bike-share business 
 
 ### Data summary
 The dataset for the analysis was gathered during August 2019. It is likely the month when more people go outside and ride a bike than in any other months of the year. The total number of rides throughout the period was 2,344,224, and every ride data contains information such as duration, start and end time with location (station name and coordinates), bike ID, and bike year. 65% of the rides were by male, and 25% were by female. In addition, bike-share subscribers accounted for 81% of the total rides.
-
-
+ 
+ 
 ## 2. Results
 ### Where CitiBike is used
 The location map shows only stations that respectively counted 10,000 rides or more during the period by default. The popular starting stations are located in the same area as the popular ending stations, including Pershing Square North, E17 St & Broadway, Broadway & E22 ST, E24 St & Park Ave S, W21 St & 6 Ave, and Broadway & E14 St, to name a few. They are in the southern part of Manhattan.
